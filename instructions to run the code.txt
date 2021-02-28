@@ -1,0 +1,8 @@
+1.Git clone or Download the zip file of the repository.
+2.Open a command promt/Terminal and direct it to the path where the file is present.
+3.Make sure Java is installed in the system.
+4.Run the following commands:
+javac Solustion.java
+java Solustion
+5.Change the number of employees in the sample_input.txt file to get diffrent results.
+6.Output will be reflected in sample_output.txt file.
